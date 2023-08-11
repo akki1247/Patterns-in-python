@@ -1,2 +1,2 @@
 # Patterns-in-python
-maximum generated python patterns
+ Can contain Maximum generated python patterns using various loops to do more practice.
